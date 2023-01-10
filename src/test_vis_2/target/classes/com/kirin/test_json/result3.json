@@ -1,0 +1,341 @@
+{
+  "region": "global",
+  "tier": "all",
+  "patch": "12.23",
+  "positions": {
+    "top": {
+      "level": "op",
+      "win_rate": 55.19,
+      "pick_rate": 8.93,
+      "ban_rate": 8.16,
+      "runes": [
+        {
+          "rune": [
+            "坚决",
+            "不灭之握",
+            "启迪"
+          ],
+          "pick_rate": 78.13,
+          "games": "320089",
+          "win_rate": 56.27
+        },
+        {
+          "rune": [
+            "坚决",
+            "不灭之握",
+            "精密"
+          ],
+          "pick_rate": 19.04,
+          "games": "77986",
+          "win_rate": 55.51
+        }
+      ],
+      "equipments": [
+        {
+          "equip": [
+            "心之钢",
+            "日炎圣盾",
+            "振奋盔甲"
+          ],
+          "img_src": [
+            "https://opgg-static.akamaized.net/meta/images/lol/item/3084.png?image=q_auto,f_webp,w_64&v=1671465194586",
+            "https://opgg-static.akamaized.net/meta/images/lol/item/3068.png?image=q_auto,f_webp,w_64&v=1671465194586",
+            "https://opgg-static.akamaized.net/meta/images/lol/item/3065.png?image=q_auto,f_webp,w_64&v=1671465194586"
+          ],
+          "pick_rate": 23.35,
+          "games": "67128",
+          "win_rate": 65.19
+        },
+        {
+          "equip": [
+            "心之钢",
+            "日炎圣盾",
+            "荆棘之甲"
+          ],
+          "img_src": [
+            "https://opgg-static.akamaized.net/meta/images/lol/item/3084.png?image=q_auto,f_webp,w_64&v=1671465194586",
+            "https://opgg-static.akamaized.net/meta/images/lol/item/3068.png?image=q_auto,f_webp,w_64&v=1671465194586",
+            "https://opgg-static.akamaized.net/meta/images/lol/item/3075.png?image=q_auto,f_webp,w_64&v=1671465194586"
+          ],
+          "pick_rate": 19.6,
+          "games": "56356",
+          "win_rate": 61.29
+        },
+        {
+          "equip": [
+            "心之钢",
+            "日炎圣盾",
+            "巨型九头蛇"
+          ],
+          "img_src": [
+            "https://opgg-static.akamaized.net/meta/images/lol/item/3084.png?image=q_auto,f_webp,w_64&v=1671465194586",
+            "https://opgg-static.akamaized.net/meta/images/lol/item/3068.png?image=q_auto,f_webp,w_64&v=1671465194586",
+            "https://opgg-static.akamaized.net/meta/images/lol/item/3748.png?image=q_auto,f_webp,w_64&v=1671465194586"
+          ],
+          "pick_rate": 6.21,
+          "games": "17866",
+          "win_rate": 70.51
+        },
+        {
+          "equip": [
+            "心之钢",
+            "日炎圣盾",
+            "狂徒铠甲"
+          ],
+          "img_src": [
+            "https://opgg-static.akamaized.net/meta/images/lol/item/3084.png?image=q_auto,f_webp,w_64&v=1671465194586",
+            "https://opgg-static.akamaized.net/meta/images/lol/item/3068.png?image=q_auto,f_webp,w_64&v=1671465194586",
+            "https://opgg-static.akamaized.net/meta/images/lol/item/3083.png?image=q_auto,f_webp,w_64&v=1671465194586"
+          ],
+          "pick_rate": 3.6,
+          "games": "10348",
+          "win_rate": 70.53
+        },
+        {
+          "equip": [
+            "心之钢",
+            "荆棘之甲",
+            "振奋盔甲"
+          ],
+          "img_src": [
+            "https://opgg-static.akamaized.net/meta/images/lol/item/3084.png?image=q_auto,f_webp,w_64&v=1671465194586",
+            "https://opgg-static.akamaized.net/meta/images/lol/item/3075.png?image=q_auto,f_webp,w_64&v=1671465194586",
+            "https://opgg-static.akamaized.net/meta/images/lol/item/3065.png?image=q_auto,f_webp,w_64&v=1671465194586"
+          ],
+          "pick_rate": 3.6,
+          "games": "10345",
+          "win_rate": 57.1
+        }
+      ],
+      "counters": [
+        {
+          "name": "诺克萨斯之手",
+          "src": "https://opgg-static.akamaized.net/meta/images/lol/champion/Darius.png?image=c_crop,h_103,w_103,x_9,y_9/q_auto,f_webp,w_64&v=1671465194586",
+          "win_rate": 58.6,
+          "games": "29048"
+        },
+        {
+          "name": "暗裔剑魔",
+          "src": "https://opgg-static.akamaized.net/meta/images/lol/champion/Aatrox.png?image=c_crop,h_103,w_103,x_9,y_9/q_auto,f_webp,w_64&v=1671465194586",
+          "win_rate": 50.13,
+          "games": "26801"
+        },
+        {
+          "name": "铁铠冥魂",
+          "src": "https://opgg-static.akamaized.net/meta/images/lol/champion/Mordekaiser.png?image=c_crop,h_103,w_103,x_9,y_9/q_auto,f_webp,w_64&v=1671465194586",
+          "win_rate": 53.34,
+          "games": "25944"
+        },
+        {
+          "name": "腕豪",
+          "src": "https://opgg-static.akamaized.net/meta/images/lol/champion/Sett.png?image=c_crop,h_103,w_103,x_9,y_9/q_auto,f_webp,w_64&v=1671465194586",
+          "win_rate": 55.15,
+          "games": "23406"
+        },
+        {
+          "name": "无双剑姬",
+          "src": "https://opgg-static.akamaized.net/meta/images/lol/champion/Fiora.png?image=c_crop,h_103,w_103,x_9,y_9/q_auto,f_webp,w_64&v=1671465194586",
+          "win_rate": 50.91,
+          "games": "21461"
+        },
+        {
+          "name": "海洋之灾",
+          "src": "https://opgg-static.akamaized.net/meta/images/lol/champion/Gangplank.png?image=c_crop,h_103,w_103,x_9,y_9/q_auto,f_webp,w_64&v=1671465194586",
+          "win_rate": 58.23,
+          "games": "19384"
+        },
+        {
+          "name": "沙漠死神",
+          "src": "https://opgg-static.akamaized.net/meta/images/lol/champion/Nasus.png?image=c_crop,h_103,w_103,x_9,y_9/q_auto,f_webp,w_64&v=1671465194586",
+          "win_rate": 51.08,
+          "games": "18187"
+        },
+        {
+          "name": "迅捷斥候",
+          "src": "https://opgg-static.akamaized.net/meta/images/lol/champion/Teemo.png?image=c_crop,h_103,w_103,x_9,y_9/q_auto,f_webp,w_64&v=1671465194586",
+          "win_rate": 55.86,
+          "games": "17765"
+        },
+        {
+          "name": "德玛西亚之力",
+          "src": "https://opgg-static.akamaized.net/meta/images/lol/champion/Garen.png?image=c_crop,h_103,w_103,x_9,y_9/q_auto,f_webp,w_64&v=1671465194586",
+          "win_rate": 53.51,
+          "games": "17115"
+        },
+        {
+          "name": "武器大师",
+          "src": "https://opgg-static.akamaized.net/meta/images/lol/champion/Jax.png?image=c_crop,h_103,w_103,x_9,y_9/q_auto,f_webp,w_64&v=1671465194586",
+          "win_rate": 58.48,
+          "games": "16580"
+        }
+      ]
+    },
+    "jungle": {
+      "level": "2",
+      "win_rate": 54.14,
+      "pick_rate": 3.02,
+      "ban_rate": 2.76,
+      "runes": [
+        {
+          "rune": [
+            "精密",
+            "迅捷步法",
+            "启迪"
+          ],
+          "pick_rate": 76.93,
+          "games": "106524",
+          "win_rate": 55.35
+        },
+        {
+          "rune": [
+            "精密",
+            "迅捷步法",
+            "坚决"
+          ],
+          "pick_rate": 11.72,
+          "games": "16223",
+          "win_rate": 52.6
+        }
+      ],
+      "equipments": [
+        {
+          "equip": [
+            "心之钢",
+            "日炎圣盾",
+            "振奋盔甲"
+          ],
+          "img_src": [
+            "https://opgg-static.akamaized.net/meta/images/lol/item/3084.png?image=q_auto,f_webp,w_64&v=1671465194586",
+            "https://opgg-static.akamaized.net/meta/images/lol/item/3068.png?image=q_auto,f_webp,w_64&v=1671465194586",
+            "https://opgg-static.akamaized.net/meta/images/lol/item/3065.png?image=q_auto,f_webp,w_64&v=1671465194586"
+          ],
+          "pick_rate": 25.22,
+          "games": "24753",
+          "win_rate": 63.69
+        },
+        {
+          "equip": [
+            "心之钢",
+            "日炎圣盾",
+            "荆棘之甲"
+          ],
+          "img_src": [
+            "https://opgg-static.akamaized.net/meta/images/lol/item/3084.png?image=q_auto,f_webp,w_64&v=1671465194586",
+            "https://opgg-static.akamaized.net/meta/images/lol/item/3068.png?image=q_auto,f_webp,w_64&v=1671465194586",
+            "https://opgg-static.akamaized.net/meta/images/lol/item/3075.png?image=q_auto,f_webp,w_64&v=1671465194586"
+          ],
+          "pick_rate": 21.54,
+          "games": "21143",
+          "win_rate": 60.21
+        },
+        {
+          "equip": [
+            "心之钢",
+            "日炎圣盾",
+            "巨型九头蛇"
+          ],
+          "img_src": [
+            "https://opgg-static.akamaized.net/meta/images/lol/item/3084.png?image=q_auto,f_webp,w_64&v=1671465194586",
+            "https://opgg-static.akamaized.net/meta/images/lol/item/3068.png?image=q_auto,f_webp,w_64&v=1671465194586",
+            "https://opgg-static.akamaized.net/meta/images/lol/item/3748.png?image=q_auto,f_webp,w_64&v=1671465194586"
+          ],
+          "pick_rate": 5.07,
+          "games": "4978",
+          "win_rate": 72.16
+        },
+        {
+          "equip": [
+            "心之钢",
+            "日炎圣盾",
+            "狂徒铠甲"
+          ],
+          "img_src": [
+            "https://opgg-static.akamaized.net/meta/images/lol/item/3084.png?image=q_auto,f_webp,w_64&v=1671465194586",
+            "https://opgg-static.akamaized.net/meta/images/lol/item/3068.png?image=q_auto,f_webp,w_64&v=1671465194586",
+            "https://opgg-static.akamaized.net/meta/images/lol/item/3083.png?image=q_auto,f_webp,w_64&v=1671465194586"
+          ],
+          "pick_rate": 3.22,
+          "games": "3162",
+          "win_rate": 70.05
+        },
+        {
+          "equip": [
+            "心之钢",
+            "荆棘之甲",
+            "振奋盔甲"
+          ],
+          "img_src": [
+            "https://opgg-static.akamaized.net/meta/images/lol/item/3084.png?image=q_auto,f_webp,w_64&v=1671465194586",
+            "https://opgg-static.akamaized.net/meta/images/lol/item/3075.png?image=q_auto,f_webp,w_64&v=1671465194586",
+            "https://opgg-static.akamaized.net/meta/images/lol/item/3065.png?image=q_auto,f_webp,w_64&v=1671465194586"
+          ],
+          "pick_rate": 3.12,
+          "games": "3064",
+          "win_rate": 53.59
+        }
+      ],
+      "counters": [
+        {
+          "name": "解脱者",
+          "src": "https://opgg-static.akamaized.net/meta/images/lol/champion/Sylas.png?image=c_crop,h_103,w_103,x_9,y_9/q_auto,f_webp,w_64&v=1671465194586",
+          "win_rate": 55.07,
+          "games": "10800"
+        },
+        {
+          "name": "无极剑圣",
+          "src": "https://opgg-static.akamaized.net/meta/images/lol/champion/MasterYi.png?image=c_crop,h_103,w_103,x_9,y_9/q_auto,f_webp,w_64&v=1671465194586",
+          "win_rate": 50.55,
+          "games": "8201"
+        },
+        {
+          "name": "影流之镰",
+          "src": "https://opgg-static.akamaized.net/meta/images/lol/champion/Kayn.png?image=c_crop,h_103,w_103,x_9,y_9/q_auto,f_webp,w_64&v=1671465194586",
+          "win_rate": 54.0,
+          "games": "7624"
+        },
+        {
+          "name": "兽灵行者",
+          "src": "https://opgg-static.akamaized.net/meta/images/lol/champion/Udyr.png?image=c_crop,h_103,w_103,x_9,y_9/q_auto,f_webp,w_64&v=1671465194586",
+          "win_rate": 50.99,
+          "games": "7552"
+        },
+        {
+          "name": "战争之影",
+          "src": "https://opgg-static.akamaized.net/meta/images/lol/champion/Hecarim.png?image=c_crop,h_103,w_103,x_9,y_9/q_auto,f_webp,w_64&v=1671465194586",
+          "win_rate": 55.24,
+          "games": "7295"
+        },
+        {
+          "name": "盲僧",
+          "src": "https://opgg-static.akamaized.net/meta/images/lol/champion/LeeSin.png?image=c_crop,h_103,w_103,x_9,y_9/q_auto,f_webp,w_64&v=1671465194586",
+          "win_rate": 58.06,
+          "games": "7231"
+        },
+        {
+          "name": "祖安怒兽",
+          "src": "https://opgg-static.akamaized.net/meta/images/lol/champion/Warwick.png?image=c_crop,h_103,w_103,x_9,y_9/q_auto,f_webp,w_64&v=1671465194586",
+          "win_rate": 53.47,
+          "games": "7169"
+        },
+        {
+          "name": "时间刺客",
+          "src": "https://opgg-static.akamaized.net/meta/images/lol/champion/Ekko.png?image=c_crop,h_103,w_103,x_9,y_9/q_auto,f_webp,w_64&v=1671465194586",
+          "win_rate": 54.23,
+          "games": "6928"
+        },
+        {
+          "name": "含羞蓓蕾",
+          "src": "https://opgg-static.akamaized.net/meta/images/lol/champion/Lillia.png?image=c_crop,h_103,w_103,x_9,y_9/q_auto,f_webp,w_64&v=1671465194586",
+          "win_rate": 48.92,
+          "games": "6425"
+        },
+        {
+          "name": "皎月女神",
+          "src": "https://opgg-static.akamaized.net/meta/images/lol/champion/Diana.png?image=c_crop,h_103,w_103,x_9,y_9/q_auto,f_webp,w_64&v=1671465194586",
+          "win_rate": 54.9,
+          "games": "6025"
+        }
+      ]
+    }
+  }
+}

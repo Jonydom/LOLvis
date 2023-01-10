@@ -1,0 +1,796 @@
+[
+  {
+    "name": "top.drmundo",
+    "strongAgainst": [
+      "top.ksante",
+      "top.jax",
+      "top.darius",
+      "top.sett",
+      "top.ornn",
+      "top.gangplank",
+      "top.fiora",
+      "top.camille",
+      "top.aatrox",
+      "top.mordekaiser"
+    ]
+  },
+  {
+    "name": "top.fiora",
+    "strongAgainst": [
+      "top.ksante",
+      "top.yone",
+      "top.aatrox",
+      "top.shen",
+      "top.ornn",
+      "top.sett",
+      "top.jax",
+      "top.renekton",
+      "top.camille",
+      "top.darius"
+    ]
+  },
+  {
+    "name": "top.aatrox",
+    "strongAgainst": [
+      "top.renekton",
+      "top.ksante",
+      "top.yone",
+      "top.ornn",
+      "top.jax",
+      "top.sett",
+      "top.camille",
+      "top.fiora",
+      "top.darius",
+      "top.irelia"
+    ]
+  },
+  {
+    "name": "top.ksante",
+    "strongAgainst": [
+      "top.yone",
+      "top.ornn",
+      "top.camille",
+      "top.sett",
+      "top.aatrox",
+      "top.fiora",
+      "top.darius",
+      "top.garen",
+      "top.shen",
+      "top.mordekaiser"
+    ]
+  },
+  {
+    "name": "top.camille",
+    "strongAgainst": [
+      "top.sett",
+      "top.darius",
+      "top.renekton",
+      "top.ornn",
+      "top.ksante",
+      "top.aatrox",
+      "top.mordekaiser",
+      "top.fiora",
+      "top.jax",
+      "top.shen"
+    ]
+  },
+  {
+    "name": "top.mordekaiser",
+    "strongAgainst": [
+      "top.ksante",
+      "top.shen",
+      "top.ornn",
+      "top.aatrox",
+      "top.sett",
+      "top.camille",
+      "top.garen",
+      "top.darius",
+      "top.fiora",
+      "top.jax"
+    ]
+  },
+  {
+    "name": "top.darius",
+    "strongAgainst": [
+      "top.renekton",
+      "top.ksante",
+      "top.aatrox",
+      "top.shen",
+      "top.mordekaiser",
+      "top.sett",
+      "top.ornn",
+      "top.fiora",
+      "top.jax",
+      "top.camille"
+    ]
+  },
+  {
+    "name": "top.shen",
+    "strongAgainst": [
+      "top.ksante",
+      "top.sett",
+      "top.gangplank",
+      "top.camille",
+      "top.aatrox",
+      "top.ornn",
+      "top.jax",
+      "top.fiora",
+      "top.darius",
+      "top.mordekaiser"
+    ]
+  },
+  {
+    "name": "top.gangplank",
+    "strongAgainst": [
+      "top.renekton",
+      "top.fiora",
+      "top.ksante",
+      "top.sett",
+      "top.camille",
+      "top.aatrox",
+      "top.irelia",
+      "top.darius",
+      "top.ornn",
+      "top.shen"
+    ]
+  },
+  {
+    "name": "top.warwick",
+    "strongAgainst": [
+      "top.sett",
+      "top.camille",
+      "top.ornn",
+      "top.renekton",
+      "top.mordekaiser",
+      "top.ksante",
+      "top.aatrox",
+      "top.fiora",
+      "top.jax",
+      "top.darius"
+    ]
+  },
+  {
+    "name": "top.irelia",
+    "strongAgainst": [
+      "top.ksante",
+      "top.yone",
+      "top.renekton",
+      "top.darius",
+      "top.aatrox",
+      "top.gangplank",
+      "top.fiora",
+      "top.sett",
+      "top.jax",
+      "top.camille"
+    ]
+  },
+  {
+    "name": "top.olaf",
+    "strongAgainst": [
+      "top.ksante",
+      "top.mordekaiser",
+      "top.shen",
+      "top.ornn",
+      "top.jax",
+      "top.fiora",
+      "top.camille",
+      "top.gangplank",
+      "top.aatrox",
+      "top.darius"
+    ]
+  },
+  {
+    "name": "top.nasus",
+    "strongAgainst": [
+      "top.ksante",
+      "top.sett",
+      "top.ornn",
+      "top.shen",
+      "top.mordekaiser",
+      "top.aatrox",
+      "top.fiora",
+      "top.gangplank",
+      "top.camille",
+      "top.darius"
+    ]
+  },
+  {
+    "name": "top.illaoi",
+    "strongAgainst": [
+      "top.ksante",
+      "top.aatrox",
+      "top.sett",
+      "top.camille",
+      "top.ornn",
+      "top.shen",
+      "top.jax",
+      "top.darius",
+      "top.mordekaiser",
+      "top.fiora"
+    ]
+  },
+  {
+    "name": "top.zac",
+    "strongAgainst": [
+      "top.ksante",
+      "top.sett",
+      "top.darius",
+      "top.mordekaiser",
+      "top.ornn",
+      "top.fiora",
+      "top.shen",
+      "top.aatrox",
+      "top.gangplank",
+      "top.camille"
+    ]
+  },
+  {
+    "name": "top.singed",
+    "strongAgainst": [
+      "top.jax",
+      "top.ornn",
+      "top.ksante",
+      "top.yone",
+      "top.fiora",
+      "top.aatrox",
+      "top.shen",
+      "top.darius",
+      "top.sett",
+      "top.camille"
+    ]
+  },
+  {
+    "name": "top.kled",
+    "strongAgainst": [
+      "top.renekton",
+      "top.darius",
+      "top.sett",
+      "top.ksante",
+      "top.aatrox",
+      "top.mordekaiser",
+      "top.jax",
+      "top.camille",
+      "top.shen",
+      "top.ornn"
+    ]
+  },
+  {
+    "name": "top.jax",
+    "strongAgainst": [
+      "top.yone",
+      "top.irelia",
+      "top.sett",
+      "top.darius",
+      "top.camille",
+      "top.ksante",
+      "top.fiora",
+      "top.shen",
+      "top.aatrox",
+      "top.garen"
+    ]
+  },
+  {
+    "name": "top.garen",
+    "strongAgainst": [
+      "top.ksante",
+      "top.jax",
+      "top.ornn",
+      "top.mordekaiser",
+      "top.aatrox",
+      "top.fiora",
+      "top.shen",
+      "top.sett",
+      "top.darius",
+      "top.camille"
+    ]
+  },
+  {
+    "name": "top.sett",
+    "strongAgainst": [
+      "top.yone",
+      "top.ksante",
+      "top.ornn",
+      "top.mordekaiser",
+      "top.aatrox",
+      "top.renekton",
+      "top.fiora",
+      "top.darius",
+      "top.shen",
+      "top.camille"
+    ]
+  },
+  {
+    "name": "top.riven",
+    "strongAgainst": [
+      "top.ksante",
+      "top.aatrox",
+      "top.renekton",
+      "top.jax",
+      "top.fiora",
+      "top.sett",
+      "top.garen",
+      "top.darius",
+      "top.camille",
+      "top.ornn"
+    ]
+  },
+  {
+    "name": "top.malphite",
+    "strongAgainst": [
+      "top.ksante",
+      "top.jayce",
+      "top.aatrox",
+      "top.yone",
+      "top.darius",
+      "top.fiora",
+      "top.camille",
+      "top.jax",
+      "top.ornn"
+    ]
+  },
+  {
+    "name": "top.quinn",
+    "strongAgainst": [
+      "top.garen",
+      "top.fiora",
+      "top.aatrox",
+      "top.yone",
+      "top.darius",
+      "top.malphite",
+      "top.ksante",
+      "top.ornn",
+      "top.shen",
+      "top.camille"
+    ]
+  },
+  {
+    "name": "top.urgot",
+    "strongAgainst": [
+      "top.ksante",
+      "top.jax",
+      "top.aatrox",
+      "top.fiora",
+      "top.camille",
+      "top.mordekaiser",
+      "top.sett",
+      "top.darius",
+      "top.ornn",
+      "top.riven"
+    ]
+  },
+  {
+    "name": "top.tryndamere",
+    "strongAgainst": [
+      "top.aatrox",
+      "top.ornn",
+      "top.malphite",
+      "top.fiora",
+      "top.sett",
+      "top.ksante",
+      "top.shen",
+      "top.camille",
+      "top.jax",
+      "top.darius"
+    ]
+  },
+  {
+    "name": "top.ornn",
+    "strongAgainst": [
+      "top.gangplank",
+      "top.yone",
+      "top.ksante",
+      "top.aatrox",
+      "top.darius",
+      "top.shen",
+      "top.mordekaiser",
+      "top.fiora",
+      "top.camille",
+      "top.sett"
+    ]
+  },
+  {
+    "name": "top.kayle",
+    "strongAgainst": [
+      "top.shen",
+      "top.ksante",
+      "top.garen",
+      "top.camille",
+      "top.fiora",
+      "top.aatrox",
+      "top.darius",
+      "top.ornn",
+      "top.yone",
+      "top.nasus"
+    ]
+  },
+  {
+    "name": "top.akshan",
+    "strongAgainst": [
+      "top.yone",
+      "top.fiora",
+      "top.camille",
+      "top.ksante",
+      "top.gangplank",
+      "top.aatrox",
+      "top.darius",
+      "top.irelia",
+      "top.ornn",
+      "top.shen"
+    ]
+  },
+  {
+    "name": "top.renekton",
+    "strongAgainst": [
+      "top.ksante",
+      "top.yone",
+      "top.sett",
+      "top.fiora",
+      "top.jax",
+      "top.camille",
+      "top.irelia",
+      "top.aatrox",
+      "top.ornn",
+      "top.darius"
+    ]
+  },
+  {
+    "name": "top.teemo",
+    "strongAgainst": [
+      "top.fiora",
+      "top.gangplank",
+      "top.camille",
+      "top.shen",
+      "top.ksante",
+      "top.sett",
+      "top.darius",
+      "top.renekton",
+      "top.aatrox",
+      "top.ornn"
+    ]
+  },
+  {
+    "name": "top.pantheon",
+    "strongAgainst": [
+      "top.sett",
+      "top.ksante",
+      "top.aatrox",
+      "top.fiora",
+      "top.jax",
+      "top.camille",
+      "top.ornn",
+      "top.darius",
+      "top.mordekaiser",
+      "top.shen"
+    ]
+  },
+  {
+    "name": "top.rengar",
+    "strongAgainst": [
+      "top.renekton",
+      "top.sett",
+      "top.yone",
+      "top.fiora",
+      "top.camille",
+      "top.ksante",
+      "top.jax",
+      "top.aatrox",
+      "top.shen",
+      "top.ornn"
+    ]
+  },
+  {
+    "name": "top.tahmkench",
+    "strongAgainst": [
+      "top.mordekaiser",
+      "top.ksante",
+      "top.camille",
+      "top.ornn",
+      "top.sett",
+      "top.aatrox",
+      "top.jax",
+      "top.shen",
+      "top.fiora",
+      "top.darius"
+    ]
+  },
+  {
+    "name": "top.gwen",
+    "strongAgainst": [
+      "top.darius",
+      "top.ksante",
+      "top.renekton",
+      "top.shen",
+      "top.sett",
+      "top.aatrox",
+      "top.ornn",
+      "top.camille",
+      "top.fiora",
+      "top.jax"
+    ]
+  },
+  {
+    "name": "top.jayce",
+    "strongAgainst": [
+      "top.ksante",
+      "top.fiora",
+      "top.gangplank",
+      "top.darius",
+      "top.aatrox",
+      "top.camille",
+      "top.malphite",
+      "top.irelia",
+      "top.ornn",
+      "top.jax"
+    ]
+  },
+  {
+    "name": "top.yorick",
+    "strongAgainst": [
+      "top.darius",
+      "top.ksante",
+      "top.renekton",
+      "top.ornn",
+      "top.aatrox",
+      "top.camille",
+      "top.fiora",
+      "top.mordekaiser",
+      "top.sett",
+      "top.shen"
+    ]
+  },
+  {
+    "name": "top.maokai",
+    "strongAgainst": [
+      "top.ornn",
+      "top.ksante",
+      "top.camille",
+      "top.yone",
+      "top.nasus",
+      "top.fiora",
+      "top.sett",
+      "top.aatrox",
+      "top.darius",
+      "top.shen"
+    ]
+  },
+  {
+    "name": "top.chogath",
+    "strongAgainst": [
+      "top.shen",
+      "top.camille",
+      "top.jax",
+      "top.aatrox",
+      "top.ksante",
+      "top.fiora",
+      "top.mordekaiser",
+      "top.darius",
+      "top.gangplank",
+      "top.ornn"
+    ]
+  },
+  {
+    "name": "top.heimerdinger",
+    "strongAgainst": [
+      "top.aatrox",
+      "top.darius",
+      "top.ksante",
+      "top.irelia",
+      "top.shen",
+      "top.camille",
+      "top.gangplank",
+      "top.ornn",
+      "top.fiora",
+      "top.jax"
+    ]
+  },
+  {
+    "name": "top.poppy",
+    "strongAgainst": [
+      "top.renekton",
+      "top.jax",
+      "top.ornn",
+      "top.ksante",
+      "top.fiora",
+      "top.aatrox",
+      "top.shen",
+      "top.camille",
+      "top.sett",
+      "top.mordekaiser"
+    ]
+  },
+  {
+    "name": "top.sion",
+    "strongAgainst": [
+      "top.ksante",
+      "top.ornn",
+      "top.sett",
+      "top.yone",
+      "top.fiora",
+      "top.shen",
+      "top.mordekaiser",
+      "top.aatrox",
+      "top.camille",
+      "top.darius"
+    ]
+  },
+  {
+    "name": "top.gnar",
+    "strongAgainst": [
+      "top.ksante",
+      "top.fiora",
+      "top.gangplank",
+      "top.aatrox",
+      "top.sett",
+      "top.camille",
+      "top.shen",
+      "top.darius",
+      "top.ornn",
+      "top.irelia"
+    ]
+  },
+  {
+    "name": "top.yone",
+    "strongAgainst": [
+      "top.ksante",
+      "top.renekton",
+      "top.ornn",
+      "top.darius",
+      "top.camille",
+      "top.aatrox",
+      "top.fiora",
+      "top.sett",
+      "top.shen",
+      "top.jax"
+    ]
+  },
+  {
+    "name": "top.vayne",
+    "strongAgainst": [
+      "top.ksante",
+      "top.mordekaiser",
+      "top.garen",
+      "top.aatrox",
+      "top.fiora",
+      "top.shen",
+      "top.sett",
+      "top.ornn",
+      "top.darius",
+      "top.camille"
+    ]
+  },
+  {
+    "name": "top.sejuani",
+    "strongAgainst": [
+      "top.darius",
+      "top.gangplank",
+      "top.fiora",
+      "top.aatrox",
+      "top.sett",
+      "top.ksante",
+      "top.camille",
+      "top.mordekaiser",
+      "top.shen",
+      "top.ornn"
+    ]
+  },
+  {
+    "name": "top.volibear",
+    "strongAgainst": [
+      "top.irelia",
+      "top.sett",
+      "top.ksante",
+      "top.fiora",
+      "top.aatrox",
+      "top.mordekaiser",
+      "top.ornn",
+      "top.darius",
+      "top.camille",
+      "top.shen"
+    ]
+  },
+  {
+    "name": "top.gragas",
+    "strongAgainst": [
+      "top.aatrox",
+      "top.sett",
+      "top.camille",
+      "top.ornn",
+      "top.ksante",
+      "top.renekton",
+      "top.darius",
+      "top.fiora",
+      "top.jax",
+      "top.shen"
+    ]
+  },
+  {
+    "name": "top.kennen",
+    "strongAgainst": [
+      "top.ornn",
+      "top.aatrox",
+      "top.darius",
+      "top.irelia",
+      "top.jax",
+      "top.camille",
+      "top.renekton",
+      "top.fiora",
+      "top.ksante",
+      "top.sett"
+    ]
+  },
+  {
+    "name": "top.vladimir",
+    "strongAgainst": [
+      "top.ornn",
+      "top.gangplank",
+      "top.ksante",
+      "top.fiora",
+      "top.camille",
+      "top.yone",
+      "top.jax",
+      "top.darius",
+      "top.aatrox",
+      "top.irelia"
+    ]
+  },
+  {
+    "name": "top.rumble",
+    "strongAgainst": [
+      "top.renekton",
+      "top.ornn",
+      "top.darius",
+      "top.aatrox",
+      "top.gangplank",
+      "top.ksante",
+      "top.camille",
+      "top.fiora",
+      "top.shen",
+      "top.irelia"
+    ]
+  },
+  {
+    "name": "top.yasuo",
+    "strongAgainst": [
+      "top.fiora",
+      "top.renekton",
+      "top.yone",
+      "top.irelia",
+      "top.ksante",
+      "top.aatrox",
+      "top.camille",
+      "top.ornn",
+      "top.darius",
+      "top.sett"
+    ]
+  },
+  {
+    "name": "top.akali",
+    "strongAgainst": [
+      "top.yone",
+      "top.irelia",
+      "top.ksante",
+      "top.ornn",
+      "top.aatrox",
+      "top.fiora",
+      "top.jax",
+      "top.darius",
+      "top.camille",
+      "top.renekton"
+    ]
+  },
+  {
+    "name": "top.trundle",
+    "strongAgainst": [
+      "top.ornn",
+      "top.mordekaiser",
+      "top.darius",
+      "top.shen",
+      "top.fiora",
+      "top.camille",
+      "top.ksante",
+      "top.jax",
+      "top.aatrox",
+      "top.olaf"
+    ]
+  }
+]
